@@ -1,4 +1,4 @@
-# WEEDO_X40_files
+# WEEDO X40
 - X40_CAD: Mechanical CAD for the X40
 - sd_card: contents of the SD card shipped with the printer
 - slicer_configs: printer profiles for slicers
